@@ -27,7 +27,9 @@ This project implements a Fake News Detection system using two powerful models: 
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset Source
+- Download the dataset from Kaggle: [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+- Place `True.csv` and `Fake.csv` in your project directory
 
 The project uses two separate CSV files:
 
